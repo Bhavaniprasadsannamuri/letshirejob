@@ -8,7 +8,7 @@ const Layout = (Component) => ({ ...props }) => {
 
     return (
         <>
-            <ResNavbar></ResNavbar>
+
             <div style={{ display: "flex", minHeight: "100vh" }}>
                 <SidebarAdm />
                 <Box sx={{ width: "100%", bgcolor: "002952" }}>
